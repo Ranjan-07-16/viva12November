@@ -8,3 +8,4 @@ System.out.println("This commit will be cherry picked");
 System.out.println("This commit is going to be stashed");
 System.out.println("This commit will be merged");
 System.out.println("This commit will be reset");
+System.out.println("Changes made to main branch in the meantime");
